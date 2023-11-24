@@ -1269,3 +1269,5 @@ require_once 'authentication.php';
 </body>
 
 </html>
+
+## This project is a kind of add.php
