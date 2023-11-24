@@ -402,3 +402,5 @@ if(isset($_POST["export_data"])) {
 
 </body>
 </html>
+
+# Upload the salary
